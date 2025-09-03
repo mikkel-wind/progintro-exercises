@@ -6,3 +6,7 @@ Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-start
 ## Formatting Examples:
 1. *Italic* text.
 2. **Bold** Text.
+Hvad bruger man git til
+- pull
+- push
+
